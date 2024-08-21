@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Imagem from './Imagem';
+import Image from './Imagem';
 
 const CardContainer = styled.div`
   border: 1px solid #ddd;
@@ -7,7 +7,7 @@ const CardContainer = styled.div`
   margin: 16px;
   width: 200px;
   border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); //adciona borda no card
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   background-color: #fff;
 `;
 

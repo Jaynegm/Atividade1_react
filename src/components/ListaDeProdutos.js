@@ -1,9 +1,7 @@
-// src/components/Products.js
 import styled from 'styled-components';
 import Card from './Card';
 import Title from './Titulo';
 import Description from './Descricao';
-
 
 const ProductsContainer = styled.div`
   display: flex;
@@ -12,7 +10,7 @@ const ProductsContainer = styled.div`
   padding: 20px;
 `;
 
-const Products = ({ products }) => {
+const ListaDeProdutos = ({ products }) => {
   return (
     <div>
       <Title>Lista de Produtos</Title>
@@ -26,4 +24,4 @@ const Products = ({ products }) => {
   );
 };
 
-export default Products;
+export default ListaDeProdutos;
