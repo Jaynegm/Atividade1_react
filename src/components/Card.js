@@ -8,17 +8,21 @@ const CardContainer = styled.div`
   width: 200px;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
+  background-color: #faa275;
+  border-color: #d00000;
+  text-align: center;
+  
 `;
 
 const CardTitle = styled.h2`
   font-size: 1.2rem;
-  color: #333;
+  color: #000000;
+  font-family:"Poppins", sans-serif;
 `;
 
 const CardDescription = styled.p`
   font-size: 1rem;
-  color: #666;
+  color: #000000;
 `;
 
 const Card = ({ product }) => {

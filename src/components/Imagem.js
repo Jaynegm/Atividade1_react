@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 const Imagem = styled.img`
-  width: 100%;
+  width: 200px;
   max-width: 200px;
-  height: auto;
+  height: 200px;
   border-radius: 12px;
   object-fit: cover;
 `;

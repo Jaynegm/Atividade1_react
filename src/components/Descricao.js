@@ -5,6 +5,7 @@ const Descricao = styled.p`
   font-size: 1.2rem;
   text-align: center;
   margin-bottom: 20px;
+  font-color: #000103;
 `;
 
 export default Descricao;

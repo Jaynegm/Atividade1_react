@@ -35,97 +35,89 @@ const produtos = [
         },
         {
         "id": 6,
-        "title": "Tortinha de Doce de Leite",
-        "description": "Feita com doce de leite mineiro",
-        "imageUrl": "https://xamegobom.com.br/wp-content/uploads/2017/04/tortinha-de-doce-de-leite-com-nozes-1.jpg"
-        },
-        {
-        "id": 7,
         "title": "Brigadeiro Tradicional",
         "description": "O tradicional é sempre o melhor",
         "imageUrl": "https://harald.com.br/wp-content/uploads/2020/04/briadeirogormet-melken-700x520-1.jpg"
         },
         {
-        "id": 8,
+        "id": 7,
         "title": "Brigadeiro de Paçoca",
         "description": "Se a paçoca por si já é perfeita, imagina em brigadeiro",
         "imageUrl": "https://revistamenu.com.br/wp-content/uploads/sites/24/2020/06/brigadeiro-pacoca-1.jpg"
         },
         {
-        "id": 9,
+        "id": 8,
         "title": "Brigadeiro de Churros",
         "description": "Nada melhor e mais tradicional que churros",
         "imageUrl": "https://harpersbazaar.uol.com.br/wp-content/uploads/2017/10/IMG_6891.jpg"
         
         },
         {
-        "id": 10,
+        "id": 9,
         "title": "Brigadeiro de Leite Ninho com Chocolate Belga",
         "description": "Ninho fica bom com tudo",
         "imageUrl": "https://www.nestleprofessional.com.br/sites/default/files/styles/np_recipe_full_desk/public/2022-06/brigadeiro-de-ninho-com-alpino.png?itok=3s1ppmCt"
         },
         {
-        "id": 11,
+        "id": 10,
         "title": "Brigadeiro de Maracujá",
         "description": "Para os amantes de citrícos",
         "imageUrl": "https://saboreiereceitas.com.br/thumbnails/brigadeiro-de-maracuja-delicioso-feito-com-a-polpa-e-sem-talhar-cris-doces-InybhM5Q-Rc.jpg"
         },
         {
+        "id": 11,
+        "title": "Brownie de Chocolate Branco com Matchá",
+        "description": "Pensa em uma sobremesa deliciosa, é esse brownie",
+        "imageUrl": "https://i.panelinha.com.br/i1/228-bk-3465-brownie-receita.webp"
+        },
+        {
         "id": 12,
-        "title": "Produto 12",
-        "description": "Descrição detalhada do produto 12.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Brownie de Banana",
+        "description": "Não tem coisa melhor do que um docinho que não te engorde, aproveita que esse é fitness",
+        "imageUrl": "https://www.receiteria.com.br/wp-content/uploads/brownie-de-banana-fit-730x730.jpg"
         },
         {
         "id": 13,
-        "title": "Produto 13",
-        "description": "Descrição detalhada do produto 13.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Brownie com Calda de Morango",
+        "description": "Molhadinho e no ponto",
+        "imageUrl": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/brownie-com-calda-de-morango-e1625151056895.jpg"
         },
         {
         "id": 14,
-        "title": "Produto 14",
-        
-        "description": "Descrição detalhada do produto 14.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Brownie de Doce Leite",
+        "description": "Lembra daquele doce de leite mineiro? Aqui tem muito dele",
+        "imageUrl": "https://www.frimesa.com.br/upload/image/recipe/frimesa-receita-brownie-de-doce-de-leite2-90-99.jpg"
         },
         {
         "id": 15,
-        "title": "Produto 15",
-        "description": "Descrição detalhada do produto 15.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Brownie de Milho com Goiabada",
+        "description": "Essa brownie é show",
+        "imageUrl": "https://uploads.metroimg.com/wp-content/uploads/2020/07/16161640/Brownie-de-Milho-com-Goiabada.jpg"
         },
         {
         "id": 16,
-        "title": "Produto 16",
-        "description": "Descrição detalhada do produto 16.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Canjica",
+        "description": "No friozinho isso aqui fica bom demais",
+        "imageUrl": "https://ligazap.com.br/wp-content/uploads/2024/07/Canjica-com-doce-de-leite-e-amendoim-1.jpg"
         },
         {
         "id": 17,
-        "title": "Produto 17",
-        "description": "Descrição detalhada do produto 17.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Arroz Doce com Canela",
+        "description": "Em festa junina ele fica caro, então aproveite",
+        "imageUrl": "https://receitinhas.com.br/wp-content/uploads/2016/05/Arroz-Doce-foto-GettyImages-1024x683.jpg"
         },
         {
         "id": 18,
-        "title": "Produto 18",
-        "description": "Descrição detalhada do produto 18.",
-        "imageUrl": "https://via.placeholder.com/150"
+        "title": "Doce de Aboborá",
+        "description": "Não há nada mais tradicional que ele",
+        "imageUrl": "https://www.kitano.com.br/wp-content/uploads/2019/07/SSP_1710-Doce-de-abo%E2%95%A0%C3%BCbora-com-cravo-e-canela.jpg"
         },
         {
-        
-        "id": 19,
-        "title": "Produto 19",
-        "description": "Descrição detalhada do produto 19.",
-        "imageUrl": "https://via.placeholder.com/150"
-        },
-        {
-        "id": 20,
-        "title": "Produto 20",
-        "description": "Descrição detalhada do produto 20.",
-        "imageUrl": "https://via.placeholder.com/150"
-        }
+          "id": 20,
+          "title": "Pudim de Leite",
+          "description": "Prato essencial de todo domingo",
+          "imageUrl": "https://static.itdg.com.br/images/360-240/72ede3bd1eeadcc3abad84a304a8e1ab/shutterstock-1178179939.jpg"
+          }
     ];
 
 function App() {
@@ -136,4 +128,6 @@ function App() {
   );
 }
 
+
 export default App;
+

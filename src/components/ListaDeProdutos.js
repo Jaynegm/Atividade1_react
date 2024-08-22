@@ -8,12 +8,13 @@ const ProductsContainer = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   padding: 20px;
+  background-color: #ff8c61;
 `;
 
 const ListaDeProdutos = ({ products }) => {
   return (
     <div>
-      <Title>Lista de Produtos</Title>
+      <Title>Doceria da Cotinha</Title>
       <Description>Confira nossa seleção de produtos abaixo.</Description>
       <ProductsContainer>
         {products.map(product => (
@@ -25,3 +26,4 @@ const ListaDeProdutos = ({ products }) => {
 };
 
 export default ListaDeProdutos;
+
